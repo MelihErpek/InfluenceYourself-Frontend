@@ -1,0 +1,69 @@
+.App {
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: 600;
+  color: #44444f;
+  font-size:20px;
+}
+
+.first {
+  font-weight:900;
+  font-size:27px;
+}
+
+.second {
+  font-size: 16px;
+  color:#92929d;
+}
+
+.adminLeftSide {
+  margin-top: 20px;
+  margin-left: 25px;
+  
+ 
+}
+
+.adminInfo {
+  background-color: rgb(245, 236, 242);
+  border-radius: 8px;
+  margin-top: 15px;
+  padding: 10px;
+  border: 1.5px solid rgb(240, 226, 226) !important;
+  
+}
+.AdSoyad{
+  padding-top: 10px;
+  margin-bottom: 5px;
+  font-size: 17px;
+  
+}
+.ProfilSayfanız{
+  font-size: 17px;
+  color:#0967D2;
+  text-decoration-line: none;
+}
+.Tabs{
+  width:325px;
+  margin-top: 32.5px;
+  font-size: 15.5px;
+  cursor:pointer;
+}
+.icons{
+  font-size: 17.5px;
+  color: #44444f;
+}
+.iconRight{
+  color: #44444f;
+  <text-decoration-line: none;
+}
+
+.Account{
+  font-size: 17.5px;
+  margin-top:50px;
+  color:rgb(169, 169, 182);
+}
+.TabsSignOut{
+  width:325px;
+  font-size: 15.5px;
+  cursor:pointer;
+  
+}
